@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,500;1,600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300;0,500;1,600&family=Source+Sans+3:ital,wght@1,200&display=swap');
 
 * {
   box-sizing: border-box;
@@ -256,7 +257,7 @@ a {
 
 .about_title{
   color: white;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Red Hat Display", sans-serif;
   font-size: 76px;
   font-weight: bold;
   margin-top: 500px;
@@ -265,15 +266,9 @@ a {
 
 .about_info{
   color: #0088a9;
-  font-family: "Montserrat", sans-serif;
+  font-family: 'Red Hat Display', sans-serif;
   font-size: 25px;
   margin-top: 200px;
-  align-items: center;
   margin: 50px;
 }
 
-.aboutbox_container {
-  text-align: center;
-  display: flex;
-  justify-content: center;
-}
